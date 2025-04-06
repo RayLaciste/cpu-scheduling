@@ -1,0 +1,6 @@
+# Ignore everything except assignment3.java
+*
+!.gitignore
+!assignment3.java
+!test_cases/
+!input.txt
